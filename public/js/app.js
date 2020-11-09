@@ -100,7 +100,7 @@
                 $.ajax('/balances',   // request url
                 {
                     success: function (data, status, xhr) {// success callback function
-        
+                        data = JSON.parse(data);
                         var labels = [];
                         var balances = [];
                        data.forEach(function(o){
