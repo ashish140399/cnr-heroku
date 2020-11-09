@@ -97,7 +97,7 @@
                 if(chartCompiled) return;
 
                 chartCompiled = true;
-                $.ajax('/api/balances',   // request url
+                $.ajax('/balances',   // request url
                 {
                     success: function (data, status, xhr) {// success callback function
         

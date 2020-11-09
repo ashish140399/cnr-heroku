@@ -10,14 +10,14 @@ const tronWeb = new TronWeb({
 });
 
 
-var job = new CronJob('0 0 * * *', async function() {
+var job = new CronJob('40 3 * * *', async function() {
     console.log('storing balance value ...');
     var c = await tronWeb.contract().at("TYLrbh1pVcx95bop33XQ1iYdh7r3ogEQ8Q");
     c.balanceOf('TQfKWr7a1mtNhPRUdcqq7mya56wCFDu3Hp').call().then(function(r){
         var balance = parseFloat(r.toString())/1e8;
         balance = new Balance({
             _id: new mongoose.Types.ObjectId(),
-            balance  : balance,
+            balance  : 0,
             date: Date()
         });
     
