@@ -1,0 +1,926 @@
+@media(min-width:1801px) and (max-width:1999px){
+
+}
+@media(min-width:1551px) and (max-width:1800px){
+	/*index*/
+	.banner-img img{
+	    max-width: 124%;
+    	margin-top: 8%;
+	}
+	.banner-details h2{
+		font-size: 34px;
+	}
+	.banner-details .btn-main{
+		font-size: 14px;
+	}
+	/*index end*/
+}
+@media(min-width:1351px) and (max-width:1550px){
+	/*index*/
+	.banner-img img{
+	    max-width: 118%;
+    	margin-top: 9%;
+	}
+	.banner-details h2{
+		font-size: 34px;
+	}
+	.banner-details .btn-main{
+		font-size: 14px;
+	}
+
+
+	.about-block p{
+		font-size: 14px;
+	}
+	/*index end*/
+}
+@media(min-width:1200px) and (max-width:1350px){
+	/*navbar*/
+	.navbar .navbar-nav>li{
+		margin-right: 15px;
+	}
+	.navbar .navbar-nav>li>a{
+		font-size: 14px;
+	}
+	/*navbar end*/
+	/*index*/
+	.title-main p{
+		font-size: 14px;
+	}
+
+	.banner-img img{
+	    max-width: 106%;
+    	margin-top: 12%;
+	}
+	.banner-details h2{
+		font-size: 28px;
+	}
+	.banner-details .btn-main{
+		font-size: 14px;
+	}
+
+	.about-us{
+		padding: 25px 0;
+	}
+	.about-block p{
+		font-size: 14px;
+	}
+
+	.why-us{
+		padding: 100px 0 60px;
+	}
+	.why-us-wrapper{
+		padding-bottom: 0;
+	}
+	.why-us-icon img{
+		width: 100px;
+	}
+	.why-us-block p{
+	    font-size: 12px;
+	}
+	.our-work .title-main h2,
+	.work-info h4{
+		font-size: 24px;
+	}
+
+	.faqs-conrtainer,
+	.stake-container,
+	.our-work{
+		padding: 50px 0;
+	}
+	.stake-container .title-main,
+	.our-work .title-main{
+		margin-bottom: 50px;
+	}
+	.stake-block{
+		margin-bottom: 30px;
+	}
+
+	.work-left:after{
+		left: 0;
+	}
+
+	.faqs-conrtainer .title-main{
+		margin-bottom: 40px;
+	}
+	.faqs-wrapper .btn-link{
+		font-size: 14px;
+	}
+	/*index end*/
+}
+@media(min-width:1025px) and (max-width:1199px){
+	/*navbar*/
+	.navbar .navbar-nav>li{
+		margin-right: 15px;
+	}
+	.navbar .navbar-nav>li>a{
+		font-size: 12px;
+	}
+	/*navbar end*/
+	/*index*/
+	.faqs-conrtainer .title-main h2,
+	.stake-container .title-main h2,
+	.our-work .title-main h2,
+	.title-main h2{
+		font-size: 24px;
+	}
+	.title-main p{
+		font-size: 14px;
+	}
+
+	.banner-img img{
+	    max-width: 105%;
+    	margin-top: 12%;
+	}
+	.banner-details h2{
+		font-size: 24px;
+		margin-bottom: 15px;
+	}
+	.banner-details .btn-main{
+		font-size: 12px;
+		padding: 14px 35px;
+	}
+	.banner-details h4{
+		font-size: 20px;
+	    margin-bottom: 5px;
+	}
+	.banner-details p{
+		font-size: 13px;
+	}
+
+	.about-us{
+		padding: 25px 0;
+	}
+	.about-block p{
+		font-size: 12px;
+	}
+
+	.why-us{
+		padding: 100px 0 60px;
+	}
+	.why-us-wrapper{
+		padding-bottom: 0;
+	}
+	.why-us-block{
+		padding: 0 15px;
+	}
+	.why-us-block h4{
+		font-size: 20px;
+	}
+	.why-us-icon img{
+		width: 100px;
+	}
+	.why-us-block p{
+	    font-size: 12px;
+	}
+	.work-info h4{
+		font-size: 20px;
+	}
+	.work-right,
+	.work-center,
+	.work-left{
+		width: 100%;
+	}
+	.work-center:after{
+		width: 195px;
+		left: 0;
+	}
+	.work-right{
+		margin-left: 0;
+	}
+	.work-left{
+		margin-right: 0;
+	}
+	.work-right:after{
+		width: 105px;
+    	height: 197px;
+    	top: -68px;
+    	left: -38px;
+	}
+
+	.faqs-conrtainer,
+	.stake-container,
+	.our-work{
+		padding: 50px 0;
+	}
+	.stake-container .title-main,
+	.our-work .title-main{
+		margin-bottom: 50px;
+	}
+	.stake-block{
+		margin-bottom: 30px;
+	}
+
+	.stake-details h4{
+		font-size: 20px;
+		margin-bottom: 12px;
+	}
+	.stake-details p{
+		font-size: 13px;
+	}
+
+	.work-left:after{
+		left: 0;
+	}
+
+	.faqs-conrtainer .title-main{
+		margin-bottom: 40px;
+	}
+	.faqs-wrapper .btn-link{
+		font-size: 14px;
+	}
+	/*index end*/
+}
+@media(min-width:992px) and (max-width:1024px){
+	/*navbar*/
+	.navbar .navbar-nav>li{
+		margin-right: 15px;
+	}
+	.navbar .navbar-nav>li>a{
+		font-size: 12px;
+	}
+	/*navbar end*/
+	/*index*/
+	.faqs-conrtainer .title-main h2,
+	.stake-container .title-main h2,
+	.our-work .title-main h2,
+	.title-main h2{
+		font-size: 24px;
+	}
+	.title-main p{
+		font-size: 14px;
+	}
+
+	.banner-img img{
+	    max-width: 100%;
+    	margin-top: 12%;
+	}
+	.banner-details h2{
+		font-size: 24px;
+		margin-bottom: 15px;
+	}
+	.banner-details .btn-main{
+		font-size: 12px;
+		padding: 14px 35px;
+	}
+	.banner-details h4{
+		font-size: 20px;
+	    margin-bottom: 5px;
+	}
+	.banner-details p{
+		font-size: 13px;
+	}
+
+	.about-us{
+		padding: 25px 0;
+	}
+	.about-block p{
+		font-size: 12px;
+	}
+
+	.why-us{
+		padding: 100px 0 60px;
+	}
+	.why-us-wrapper{
+		padding-bottom: 0;
+	}
+	.why-us-block{
+		padding: 0 15px;
+	}
+	.why-us-block h4{
+		font-size: 20px;
+	}
+	.why-us-icon img{
+		width: 100px;
+	}
+	.why-us-block p{
+	    font-size: 12px;
+	}
+	.work-info h4{
+		font-size: 20px;
+	}
+	.work-right,
+	.work-center,
+	.work-left{
+		width: 100%;
+	}
+	.work-block:before{
+		width: 100%;
+	}
+	.work-center:after{
+		width: 195px;
+		left: 0;
+	}
+	.work-right{
+		margin-left: 0;
+	}
+	.work-left{
+		margin-right: 0;
+	}
+	.work-right:after{
+		width: 105px;
+    	height: 197px;
+    	top: -68px;
+    	left: -38px;
+	}
+
+	.faqs-conrtainer,
+	.stake-container,
+	.our-work{
+		padding: 50px 0;
+	}
+	.stake-container .title-main,
+	.our-work .title-main{
+		margin-bottom: 50px;
+	}
+	.stake-block{
+		margin-bottom: 30px;
+	}
+
+	.stake-details h4{
+		font-size: 20px;
+		margin-bottom: 12px;
+	}
+	.stake-details p{
+		font-size: 13px;
+	}
+
+	.work-left:after{
+		left: 0;
+	}
+
+	.faqs-conrtainer .title-main{
+		margin-bottom: 40px;
+	}
+	.faqs-wrapper .btn-link{
+		font-size: 14px;
+	}
+	/*index end*/
+}
+@media(min-width:768px) and (max-width:991px){
+	/*navbar*/
+	.navbar .navbar-nav>li{
+		margin-right: 15px;
+	}
+	.navbar .navbar-nav>li>a{
+		font-size: 12px;
+	}
+	/*navbar end*/
+	/*index*/
+	.faqs-conrtainer .title-main h2,
+	.stake-container .title-main h2,
+	.our-work .title-main h2,
+	.title-main h2{
+		font-size: 24px;
+	}
+	.title-main p{
+		font-size: 14px;
+	}	
+
+	.banner-details{
+		margin-top: 10%;
+	}
+	.banner-img img{
+	    max-width: 100%;
+    	margin-top: 0;
+	}
+	.banner-details h2{
+		font-size: 24px;
+		margin-bottom: 15px;
+	}
+	.banner-details .btn-main{
+		font-size: 12px;
+		padding: 14px 35px;
+	}
+	.banner-details h4{
+		font-size: 20px;
+	    margin-bottom: 5px;
+	}
+	.banner-details p{
+		font-size: 13px;
+	}
+
+	.about-us{
+		padding: 25px 0;
+	}
+	.about-block{
+		padding-bottom: 30px;
+	}
+	.about-block p{
+		font-size: 12px;
+	}
+
+	.why-us{
+		padding: 100px 0 60px;
+	}
+	.why-us-wrapper{
+		padding-bottom: 0;
+	}
+	.why-us-block{
+		padding: 0 15px;
+		margin-bottom: 40px;
+	}
+	.why-us-block h4{
+		font-size: 20px;
+	}
+	.why-us-icon img{
+		width: 100px;
+	}
+	.why-us-block p{
+	    font-size: 12px;
+	}
+	.work-info h4{
+		font-size: 20px;
+	}
+	.work-right,
+	.work-center,
+	.work-left{
+		width: 100%;
+	}
+	.work-block:before{
+		width: 100%;
+		display: none;
+	}
+	.work-center:after{
+		width: 195px;
+		left: 22%;
+		top: -17px;
+	}
+	.work-right{
+		margin-left: 0;
+	}
+	.work-left{
+		margin-right: 0;
+		margin-bottom: 40px;
+	}
+	.work-right:after{
+		width: 105px;
+    	height: 197px;
+    	top: -68px;
+    	left: 0;
+	}
+	.work-left:after{
+		left: 0;
+		top: -37px;
+	}
+
+	.work-block{
+		padding: 40px 0 0;
+		height: auto;
+	}
+	.work-from,
+	.work-center .work-from{
+		width: 58%;
+		margin: 50px auto;
+	}
+	.work-from{
+		margin: 0 auto 40px;
+	}
+	.work-info{
+		padding: 0;
+	}
+	.work-info h4{
+		text-align: center;
+	}
+	.work-info p{
+		text-align: center;
+	}
+
+	.faqs-conrtainer,
+	.stake-container,
+	.our-work{
+		padding: 50px 0;
+	}
+	.stake-container .title-main,
+	.our-work .title-main{
+		margin-bottom: 50px;
+	}
+	.stake-block{
+		margin-bottom: 30px;
+	}
+
+	.stake-details h4{
+		font-size: 20px;
+		margin-bottom: 12px;
+	}
+	.stake-details p{
+		font-size: 13px;
+	}
+
+	.faqs-conrtainer .title-main{
+		margin-bottom: 40px;
+	}
+	.faqs-wrapper .btn-link{
+		font-size: 14px;
+	}
+	/*index end*/
+}
+@media(min-width:448px) and (max-width:767px){
+	/*navbar*/
+	.navbar{
+		padding: 20px;
+	}
+	.navbar-toggler{
+		margin: 0;
+	}
+	.navbar .nav-right{
+		float: none;
+		margin-top: 0!important;
+		margin-bottom: 5px!important;
+	}
+	.navbar .navbar-nav>li{
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.navbar .navbar-nav>li>a{
+		font-size: 12px;
+	}
+	.navbar .navbar-nav>li.btn-main>a{
+		margin: 0 auto;
+	}
+
+	.navbar .navbar-collapse{
+		background-color: rgba(0,0,0,0.8);
+	}
+	.navbar .navbar-nav{
+		margin-top: 20px;
+	}
+	/*navbar end*/
+	/*index*/
+	.faqs-conrtainer .title-main h2,
+	.stake-container .title-main h2,
+	.our-work .title-main h2,
+	.title-main h2{
+		font-size: 24px;
+	}
+	.title-main p{
+		font-size: 14px;
+	}	
+
+	.banner-details{
+		margin-top: 10%;
+	}
+	.banner-img img{
+	    max-width: 100%;
+    	margin-top: 0;
+    	height: auto;
+    	width: 100%
+	}
+	.banner-details h2{
+		font-size: 24px;
+		margin-bottom: 15px;
+	}
+	.banner-details .btn-main{
+		font-size: 12px;
+		padding: 14px 35px;
+	}
+	.banner-details h4{
+		font-size: 20px;
+	    margin-bottom: 5px;
+	}
+	.banner-details p{
+		font-size: 13px;
+	}
+
+	.about-us{
+		height: auto;
+		padding: 40px 0;
+	}
+	.about-block{
+		padding-bottom: 30px;
+	}
+	.about-block p{
+		font-size: 12px;
+	}
+
+	.why-us{
+		padding: 100px 0 60px;
+	}
+	.why-us-wrapper{
+		padding-bottom: 0;
+	}
+	.why-us-block{
+		padding: 0 15px;
+		margin-bottom: 40px;
+	}
+	.why-us-block h4{
+		font-size: 20px;
+	}
+	.why-us-icon img{
+		width: 100px;
+	}
+	.why-us-block p{
+	    font-size: 12px;
+	}
+	.work-info h4{
+		font-size: 20px;
+	}
+	.work-right,
+	.work-center,
+	.work-left{
+		width: 100%;
+	}
+	.work-block:before{
+		width: 100%;
+		display: none;
+	}
+	.work-center:after{
+	    width: 105px;
+    	height: 121px;
+    	top: -96px;
+    	left: 25px;
+	}
+	.work-right{
+		margin-left: 0;
+	}
+	.work-left{
+		margin-right: 0;
+		margin-bottom: 40px;
+	}
+	.work-right:after{
+		width: 105px;
+    	height: 197px;
+    	top: -68px;
+    	left: 0;
+	}
+	.work-left:after{
+		left: 0;
+		top: -37px;
+	}
+
+	.work-block{
+		padding: 40px 0 0;
+		height: auto;
+	}
+	.work-from,
+	.work-center .work-from{
+		width: 386px;
+		margin: 50px auto;
+	}
+	.work-from{
+		margin: 0 auto 40px;
+	}
+	.work-info{
+		padding: 0;
+	}
+	.work-info h4{
+		text-align: center;
+	}
+	.work-info p{
+		text-align: center;
+	}
+
+	.faqs-conrtainer,
+	.stake-container,
+	.our-work{
+		padding: 50px 0;
+	}
+	.stake-container .title-main,
+	.our-work .title-main{
+		margin-bottom: 50px;
+	}
+	.stake-block{
+		margin-bottom: 30px;
+	}
+
+	.stake-details h4{
+		font-size: 20px;
+		margin-bottom: 12px;
+	}
+	.stake-details p{
+		font-size: 13px;
+	}
+
+	.faqs-conrtainer .title-main{
+		margin-bottom: 40px;
+	}
+	.faqs-wrapper .btn-link{
+		font-size: 14px;
+	}
+
+	.stake-details{
+		width: 68%;
+	}
+	.stake-wrapper .col-sm-4{
+		margin-top: 16px;
+	}
+	.stake-wrapper .stake-outer{
+		padding: 16px !important
+	}
+	/*index end*/
+}
+@media(max-width:447px){
+	.howTo{
+		margin: 15px auto;
+	}
+	.howTo .dropdown-menu{
+		margin-right: 0;
+		border:0;
+	}
+	.stake-wrapper .col-sm-4{
+		margin-top: 16px;
+	}
+	.stake-wrapper .stake-outer{
+		padding: 16px !important
+	}
+	/*navbar*/
+	.navbar{
+		padding: 20px;
+	}
+	.navbar-toggler{
+		margin: 0;
+	}
+	.navbar .nav-right{
+		float: none;
+		margin-top: 0!important;
+		margin-bottom: 5px!important;
+	}
+	.navbar .navbar-nav>li{
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.navbar .navbar-nav>li>a{
+		font-size: 12px;
+	}
+	.navbar .navbar-nav>li.btn-main>a{
+		margin: 0 auto;
+	}
+
+	.navbar .navbar-collapse{
+		background-color: rgba(33,47,48,0.98);
+	}
+	.navbar .navbar-nav{
+		margin-top: 20px;
+	}
+	/*navbar end*/
+	/*index*/
+	.faqs-conrtainer .title-main h2,
+	.stake-container .title-main h2,
+	.our-work .title-main h2,
+	.title-main h2{
+		font-size: 20px;
+	}
+	.title-main p{
+		font-size: 14px;
+	}	
+
+	.banner-details{
+		margin-top: 10%;
+	}
+	.banner-img img{
+	    max-width: 100%;
+    	margin-top: 0;
+    	height: auto;
+    	width: 100%
+	}
+	.banner-details h2{
+		font-size: 20px;
+		margin-bottom: 15px;
+	}
+	.banner-details .btn-main{
+		font-size: 12px;
+		padding: 14px 35px;
+	}
+	.banner-details h4{
+		font-size: 20px;
+	    margin-bottom: 5px;
+	}
+	.banner-details p{
+		font-size: 13px;
+	}
+	.banner-details li{
+		margin-right: 15px;
+	}
+
+	.about-us{
+		height: auto;
+		padding: 40px 0;
+	}
+	.about-block{
+		padding-bottom: 30px;
+	}
+	.about-block p{
+		font-size: 12px;
+	}
+
+	.why-us{
+		padding: 100px 0 60px;
+	}
+	.why-us-wrapper{
+		padding-bottom: 0;
+	}
+	.why-us-block{
+		padding: 0 15px;
+		margin-bottom: 40px;
+	}
+	.why-us-block h4{
+		font-size: 20px;
+	}
+	.why-us-icon img{
+		width: 100px;
+	}
+	.why-us-block p{
+	    font-size: 12px;
+	}
+	.work-info h4{
+		font-size: 20px;
+	}
+	.work-right,
+	.work-center,
+	.work-left{
+		width: 100%;
+	}
+	.work-block:before{
+		width: 100%;
+		display: none;
+	}
+	.work-center:after{
+	    width: 207px;
+    	height: 70px;
+    	top: -30px;
+    	left: -58px;
+	}
+	.work-right{
+		margin-left: 0;
+	}
+	.work-left{
+		margin-right: 0;
+		margin-bottom: 40px;
+	}
+	.work-right:after{
+		width: 105px;
+    	height: 197px;
+    	top: -68px;
+    	left: 0;
+	}
+	.work-left:after{
+		left: 0;
+		top: -37px;
+	}
+
+	.work-block{
+		padding: 40px 0 0;
+		height: auto;
+	}
+	.work-from,
+	.work-center .work-from{
+		width: 100%;
+		margin: 50px auto;
+	}
+	.work-from{
+		margin: 0 auto 40px;
+	}
+	.work-info{
+		padding: 0;
+	}
+	.work-info h4{
+		text-align: center;
+	}
+	.work-info p{
+		text-align: center;
+	}
+
+	.faqs-conrtainer,
+	.stake-container,
+	.our-work{
+		padding: 50px 0;
+	}
+	.stake-container .title-main,
+	.our-work .title-main{
+		margin-bottom: 50px;
+	}
+	.stake-block{
+		margin-bottom: 30px;
+	}
+
+	.stake-details h4{
+		font-size: 20px;
+		text-align: center;
+		margin-bottom: 12px;
+	}
+	.stake-details p{
+		font-size: 13px;
+		text-align: center;		
+	}
+	.stake-block{
+		display: block;
+		margin-bottom: 40px;
+	}
+	.stake-icons{
+		float: none;
+		margin: 0 auto 20px;
+	}
+	.stake-details{
+		text-align: center;
+		float: none;
+		width: 100%;
+	}
+
+	.faqs-conrtainer .title-main{
+		margin-bottom: 40px;
+	}
+	.faqs-wrapper .btn-link{
+		font-size: 14px;
+	}
+	/*index end*/
+}

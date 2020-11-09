@@ -1,0 +1,132 @@
+@media(min-width:1025px) and (max-width:1350px){
+	.expand-menu-open .main-right-part {padding: 0 15px 0 215px;}
+	.expand-menu-open .side-nav-wrp{width: 200px;}
+
+	.cnr-box-wrp .box-block{min-height: 157px;}
+	.cnr-box-wrp .box-block .sm-dt h5{font-size: 14px;}
+	.cnr-box-wrp .box-block .sm-dt h3{font-size: 22px;}
+	.cnr-box-wrp .box-block .sm-dt h3 span{font-size: 13px;}
+	.cnr-box-wrp .box-block .sm-dt p{font-size: 11px;}
+
+	.contract-balance-wrp .contract-box-block .btn-block{position: relative; bottom: -10px;}
+	.contract-balance-wrp .contract-box-block .btn-block ul li a{font-size: 12px;}
+	.contract-balance-wrp .contract-box-block .sm-dt{padding: 15px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h3{font-size: 22px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h3 span{font-size: 12px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h6{width: 100%;text-align: justify; padding: 15px 0px 17px;font-size: 11px;}
+	.contract-balance-wrp .contract-box-block .sm-dt{padding: 15px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h5{font-size: 13px;}
+	.contract-balance-wrp .contract-box-block .sm-dt p{word-break: break-all; font-size: 12px;}
+	.contract-balance-wrp .contract-box-block .sm-dt .enjoy{margin: 20px 0 0;font-size: 13px;}
+}
+
+@media(min-width:992px) and (max-width:1024px){
+	.expand-menu-open .main-right-part {padding: 0 15px 0 215px;}
+	.expand-menu-open .side-nav-wrp{width: 200px;}
+
+	.cnr-box-wrp .box-block{min-height: 157px;}
+	.cnr-box-wrp .box-block .sm-dt h5{font-size: 14px;}
+	.cnr-box-wrp .box-block .sm-dt h3{font-size: 22px;}
+	.cnr-box-wrp .box-block .sm-dt h3 span{font-size: 13px;}
+	.cnr-box-wrp .box-block .sm-dt p{font-size: 11px;}
+
+	.contract-balance-wrp .contract-box-block .btn-block{position: relative; bottom: -10px;}
+	.contract-balance-wrp .contract-box-block .btn-block ul li a{font-size: 12px;}
+	.contract-balance-wrp .contract-box-block .sm-dt{padding: 15px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h3{font-size: 22px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h3 span{font-size: 12px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h6{width: 100%;text-align: justify; padding: 15px 0px 17px;font-size: 11px;}
+	.contract-balance-wrp .contract-box-block .sm-dt{padding: 15px;}
+	.contract-balance-wrp .contract-box-block .sm-dt h5{font-size: 13px;}
+	.contract-balance-wrp .contract-box-block .sm-dt p{word-break: break-all; font-size: 12px;}
+	.contract-balance-wrp .contract-box-block .sm-dt .enjoy{margin: 20px 0 0;font-size: 13px;}
+}
+@media(min-width:768px) and (max-width:991px){
+	.side-nav-open{display: block;}
+	.expand-menu-open .side-nav-wrp{width: 100%;z-index:9999;}
+	.side-nav-wrp{width: 0px;}
+
+	.main-right-part{padding: 0px;}
+	.header h2{font-size: 25px;}
+	.header img{max-width: 50%;margin: 0px 10px 0px;}
+	.header h4 {font-size: 12px;}
+
+	.close-sid{display: block;}
+	.contract-img{margin-bottom: 40px;}
+	.cnr-box-wrp .box-block .sm-dt h3{font-size: 30px;}
+	.cnr-box-wrp .box-block .sm-dt h3 span{font-size: 16px;}
+	.expand-menu-open .main-right-part{padding: 0 15px;}
+	.logo-wrp{text-align: center;}
+	.header .btn-wrp span{font-size: 12px;}
+	.header .btn-wrp img{height: 25px;}
+	.header .btn-wrp{float: right;}
+	.header .btn-wrp a{margin:0px auto;}
+	.contract-balance-wrp .contract-box-block{height: auto;margin: 0 0 60px;}
+	.leaderboard-wrp .leaderboard-box-block{margin-top: 0px;}
+	.contract-balance-wrp{padding: 0px;margin: 0px;}
+	.contract-balance-wrp .contract-box-block .sm-dt{padding: 15px;}
+	.contract-balance-wrp .contract-box-block .sm-dt p{word-break: break-all;}
+
+}
+@media(min-width:448px) and (max-width:767px){
+	.logo-wrp a span{display: none;}
+	.howTo{margin-right: 0;transform: scale(0.7);transform-origin: top right;}
+	.cnr-box-wrp .box-block{z-index: -1}
+	.sm-log{margin-top: 40px;}
+	.side-nav-open{display: block;}
+	.expand-menu-open .side-nav-wrp{width: 100%;z-index:9999;}
+	.side-nav-wrp{width: 0px;}
+
+	.main-right-part{padding: 0px;}
+	.header h2{font-size: 25px;}
+	.header img{max-width: 70%;margin: 0px 10px 0px;}
+	.header h4 {font-size: 12px;}
+
+	.questions-tab .accordion .card h2{font-size: 14px;}
+	.questions-tab{margin-bottom: 40px;}
+	.contract-img{margin-bottom: 40px;}
+	.close-sid{display: block;}
+	.expand-menu-open .main-right-part{padding: 0 15px;}
+	.logo-wrp{text-align: center;}
+	.header .btn-wrp span{font-size: 12px;}
+	.header .btn-wrp img{width: 25px;}
+	.header .btn-wrp{float: none;}
+	.header .btn-wrp a{margin:0px auto;}
+	.contract-balance-wrp .contract-box-block{height: auto;margin: 0 0 30px;}
+	.leaderboard-wrp .leaderboard-box-block{margin-top: 0px;}
+	.contract-balance-wrp{padding: 0px;margin: 0px;}
+	.contract-balance-wrp .contract-box-block .sm-dt{padding: 15px;}
+	.contract-balance-wrp .contract-box-block .sm-dt p{word-break: break-all;}
+}
+@media(max-width:447px){
+	.logo-wrp a span{display: none;}
+	.howTo{margin-right: 0;transform: scale(0.7);transform-origin: top right;}
+	.cnr-box-wrp .box-block{z-index: -1}
+	.sm-log{margin-top: 40px;}
+	.side-nav-open{display: block;}
+	.expand-menu-open .side-nav-wrp{width: 100%;z-index:9999;}
+	.side-nav-wrp{width: 0px;}
+
+	.contract-img{margin-bottom: 40px;}
+
+	.main-right-part{padding: 0px;}
+	.header h2{font-size: 25px;}
+	.header img{max-width: 116%;margin: 0px 0px 0px;}
+	.header h4 {font-size: 12px;}
+
+	.close-sid{display: block;}
+	.expand-menu-open .main-right-part{padding: 0 15px;}
+
+	.frequently-wrp .frequently-heading h5{padding: 0px 20px 10px;}
+	.questions-tab .accordion .card h2{font-size: 14px;}
+	.questions-tab{margin-bottom: 40px;}
+	.header .btn-wrp span{font-size: 12px;}
+	.header .btn-wrp img{width: 25px;}
+	.header .btn-wrp{float: none;}
+	.header .btn-wrp a{margin:0px auto;padding: 10px 18px;}
+	.contract-balance-wrp .contract-box-block{height: auto;margin: 0 0 30px;}
+	.leaderboard-wrp .leaderboard-box-block{margin-top: 0px;}
+	.contract-balance-wrp{padding: 0px;margin: 0px;}
+	.contract-balance-wrp .contract-box-block .sm-dt{padding: 15px;}
+	.contract-balance-wrp .contract-box-block .sm-dt p{word-break: break-all;}
+}
